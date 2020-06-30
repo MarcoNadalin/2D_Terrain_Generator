@@ -6,7 +6,7 @@ To test out 2D Terrain Generator, open the "2D_terrain_gen.jar" file.
 
 <h3> What is 2D_Terrain_Generator </h3>
 This is a java program which turns generated noise into an image which resembles a terrain, allowing for procedurally generated
-terrain which.
+terrain.
 
 <h3> Credits </h3>
 Noise generation was accomplished by using "FastNoise" open source java noise library found at:
