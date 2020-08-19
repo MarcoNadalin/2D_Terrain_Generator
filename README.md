@@ -1,6 +1,8 @@
 # 2D Terrain Generator
 Designed to generate a random/procedural 2D image that resembles terrain.
 
+![Sample Image](https://github.com/MarcoNadalin/2D_Terrain_Generator/blob/master/preview.PNG)
+
 <h3> How to Run </h3>
 To test out 2D Terrain Generator, open the "2D_terrain_gen.jar" file.
 
